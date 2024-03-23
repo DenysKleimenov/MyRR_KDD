@@ -16,3 +16,8 @@ img:nth-child(odd) {
 .lastImage {
   object-fit: contain;
 }
+
+.legoSet {
+  border-radius: 50px;
+  filter: drop-shadow(16px 16px 10px black);
+}
